@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Test_Custom_ListView</string>
+
+    <array name="names">
+        <item>Ahmed</item>
+        <item>Amr</item>
+        <item>khaled</item>
+        <item>Asad</item>
+        <item>Amal</item>
+        <item>Anti</item>
+        <item>mohamed</item>
+
+
+
+    </array>
+
+    <array name="ids">
+
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+
+
+
+    </array>
+</resources>
